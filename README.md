@@ -4,6 +4,8 @@
  
 Artificial intelligence (AI)-powered chest disease detection and classification. Using transfer learning with Tensorflow.
 
+Transfer learning base: ResNet-50 (convolutional neural network).
+
 Labels:
 
 0 - COVID-19
