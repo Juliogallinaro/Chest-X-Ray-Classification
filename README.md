@@ -4,6 +4,16 @@
  
 Artificial intelligence (AI)-powered chest disease detection and classification. Using transfer learning with Tensorflow.
 
+Labels:
+
+0 - COVID-19
+
+1 - Normal images
+
+2 - Lung opacity images
+
+3 - Viral Pneumonia images
+
 Dataset Sampled from COVID-19 CHEST X-RAY DATABASE
 
 https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
